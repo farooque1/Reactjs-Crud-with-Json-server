@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "name": "farooque",
+      "email": "sfarooque65@gmail.com",
+      "phone": "9874563210",
+      "dob": "2022-10-12",
+      "address": "Mumbai",
+      "image": "C:\\fakepath\\flags.png",
+      "id": 2
+    },
+    {
+      "name": "farooque shaikh",
+      "email": "sfarooque@gmail.com",
+      "phone": "85201479630",
+      "dob": "2012-11-30",
+      "address": "navi mumbai",
+      "image": "C:\\fakepath\\logo.png",
+      "id": 3
+    },
+    {
+      "name": "Husain123",
+      "email": "test@gmail.com",
+      "phone": "2020202020",
+      "dob": "2011-08-23",
+      "address": "test",
+      "image": "C:\\fakepath\\test.jpeg",
+      "id": 4
+    },
+    {
+      "name": "Irfannn",
+      "email": "thane@gmail.com",
+      "phone": "9876543210",
+      "dob": "2014-05-29",
+      "address": "thane",
+      "image": "C:\\fakepath\\MicrosoftTeams-image (1).png",
+      "id": 5
+    },
+    {
+      "name": "aman",
+      "email": "test@gmail.com",
+      "phone": "9632587410",
+      "dob": "2022-10-28",
+      "address": "demo address",
+      "image": "C:\\fakepath\\Screenshot 2021-10-14 at 9.50.14 AM.png",
+      "id": 6
+    }
+  ]
+}
